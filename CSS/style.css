@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+.fl {
+  width: 400px;
+}
+
+.cubase {
+  width: 400px;
+}
+
+.pr {
+  width: 400px;
+  height: 221px;
+}
